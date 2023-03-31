@@ -5,7 +5,7 @@
 <div align="center">  
   
   ![Rhayadh GitHub stats](https://github-readme-stats.vercel.app/api?username=rhayadhzaparoli&show_icons=true&theme=radical&hide=issues,prs)
-<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhayadhzaparoli&layout=compact&langs_count=25&theme=radical"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhayadhzaparoli&layout=compact&langs_count=100&theme=radical"/>
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RhayadhZaparoli&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
