@@ -36,6 +36,6 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=1572B6&labelColor=0D1117)](https://www.linkedin.com/in/rhayadh-zaparoli-40308124b/)
 <a href = "mailto:rhayadh.zaparoli@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=1572B6&labelColor=0D1117" target="_blank"></a>
 
-//![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RhayadhZaparoli&theme=gotham)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
