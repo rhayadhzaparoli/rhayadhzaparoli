@@ -20,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![COBOL](https://img.shields.io/badge/COBOL-0D1117?style=for-the-badge&logo=cobol&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![COBOL](https://img.shields.io/badge/cobol-0D1117?style=for-the-badge&logo=cobol&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 ### Tools:
